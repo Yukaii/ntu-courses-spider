@@ -1,0 +1,452 @@
+[
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "李妮庭",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "新502",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1020"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=45&dpt_code=A000&ser_no=01050&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01050",
+    "id": "101 80002",
+    "target": "法律院",
+    "order": "45",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "李妮庭",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "新502",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1020"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=45&dpt_code=9000&ser_no=01050&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01050",
+    "id": "101 80002",
+    "target": "電資院",
+    "order": "45",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "李妮庭",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "新502",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1020"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=45&dpt_code=5000&ser_no=01050&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01050",
+    "id": "101 80002",
+    "target": "工學院",
+    "order": "45",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "李妮庭",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "新502",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1020"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=45&dpt_code=3000&ser_no=01050&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01050",
+    "id": "101 80002",
+    "target": "社科院",
+    "order": "45",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "劉文清",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "普205",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1009"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=46&dpt_code=3000&ser_no=01051&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01051",
+    "id": "101 80002",
+    "target": "社科院",
+    "order": "46",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "劉文清",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "普205",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1009"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=46&dpt_code=5000&ser_no=01051&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01051",
+    "id": "101 80002",
+    "target": "工學院",
+    "order": "46",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "劉文清",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "普205",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1009"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=46&dpt_code=9000&ser_no=01051&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01051",
+    "id": "101 80002",
+    "target": "電資院",
+    "order": "46",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "劉文清",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "普205",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1009"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=46&dpt_code=A000&ser_no=01051&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01051",
+    "id": "101 80002",
+    "target": "法律院",
+    "order": "46",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "陳翠英",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "共307",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT2038"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=47&dpt_code=A000&ser_no=01052&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01052",
+    "id": "101 80002",
+    "target": "法律院",
+    "order": "47",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "陳翠英",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "共307",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT2038"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=47&dpt_code=9000&ser_no=01052&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01052",
+    "id": "101 80002",
+    "target": "電資院",
+    "order": "47",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "陳翠英",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "共307",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT2038"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=47&dpt_code=5000&ser_no=01052&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01052",
+    "id": "101 80002",
+    "target": "工學院",
+    "order": "47",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "陳翠英",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "共307",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT2038"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=47&dpt_code=3000&ser_no=01052&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01052",
+    "id": "101 80002",
+    "target": "社科院",
+    "order": "47",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "蔡祝青",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "普502",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1009"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=48&dpt_code=3000&ser_no=01053&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01053",
+    "id": "101 80002",
+    "target": "社科院",
+    "order": "48",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "蔡祝青",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "普502",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1009"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=48&dpt_code=5000&ser_no=01053&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01053",
+    "id": "101 80002",
+    "target": "工學院",
+    "order": "48",
+    "number": "CHIN1002"
+  },
+  {
+    "title": " 國文下",
+    "code": null,
+    "lecturer": "蔡祝青",
+    "credits": 3,
+    "required": true,
+    "full_semester": true,
+    "semester": null,
+    "limitations": "本課有先修科目規定,限社會科學院學生 或 限工學院學生 或 限電資學院學生 或 限法律學院學生,修課人數上限：43人",
+    "time_location": {
+      "一": [
+        [
+          "6",
+          "7",
+          "8"
+        ],
+        "普502",
+        "http://map.ntu.edu.tw/ntu.html?layer=build&uid=AT1009"
+      ]
+    },
+    "website": "#",
+    "note": " ",
+    "url": "print_table.php?course_id=101 80002&class=48&dpt_code=9000&ser_no=01053&semester=103-2&lang=CH",
+    "take_option": "3",
+    "serial_number": "01053",
+    "id": "101 80002",
+    "target": "電資院",
+    "order": "48",
+    "number": "CHIN1002"
+  }
+]
