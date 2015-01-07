@@ -5,7 +5,7 @@ class Course
                 :required, :full_semester, :semester,
                 :limitations, :time_location, :website,
                 :note, :url, :take_option, :serial_number,
-                :id, :target, :order, :number
+                :id, :target, :order, :number, :book
   # attr_accessor :attributes
 
   def initialize(h)
@@ -13,7 +13,7 @@ class Course
                    :required, :full_semester, :semester,
                    :limitations, :time_location, :website,
                    :note, :url, :take_option, :serial_number,
-                   :id, :target, :order, :number]
+                   :id, :target, :order, :number, :book]
     
     h.each {|k,v| send("#{k}=",v)}
   end
